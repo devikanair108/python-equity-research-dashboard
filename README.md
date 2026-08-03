@@ -8,6 +8,14 @@ The dashboard is fully reusable by changing a single variable (`company_ticker`)
 
 ---
 
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+
+---
+
 ## Features
 
 - Historical stock price analysis
