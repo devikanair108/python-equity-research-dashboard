@@ -62,6 +62,20 @@ The model then compares the simulated portfolios to identify the allocation with
 - Portfolio optimisation
 - Risk-adjusted returns
 
+- ## Visualisations
+
+### Equity Performance vs S&P 500
+
+![Equity Dashboard](dashboard.png)
+
+### Portfolio Risk-Return Analysis
+
+![Portfolio Risk Return Analysis](Portfolio%20Risk%20Return%20Analysis.png)
+
+### Optimal Portfolio Allocations
+
+![Optimal Portfolio Allocations](Optimal%20Portfolio%20Allocations.png)
+
 ## Limitations
 
 The analysis is based on historical market data and should not be interpreted as a prediction of future performance.
